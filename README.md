@@ -122,4 +122,4 @@ Final Year Software Engineering Undergraduate
 
 ## 📄 License
 
-This project is created for educational purposes only.
+This project is licensed under the MIT License.
